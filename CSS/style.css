@@ -1,0 +1,99 @@
+html{
+	scroll-behavior: smooth;
+}
+header{
+	background-color: #1d1b33;
+	opacity: 80%;
+	width: 100%;
+	height: 55px;
+	top: 0;
+	left: 0;
+	position: fixed;
+}
+.head{
+	margin: auto;
+	font-family: Courier New;
+	font-size: 30px;
+	height: 55px;
+	width: 60%;
+}
+body{
+	background-color: black;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+.photo{
+	display: block;
+	margin: auto;
+	width: 20%;
+	margin-top: 2%;
+}
+h1{
+	text-align: center;
+	color: #fff0fd;
+	visibility: hidden;
+}
+h2{
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: Courier New;
+	font-size: 50px;
+	color: #fff0fd;
+	text-align: center;
+	-webkit-text-stroke: 2px black;
+}
+h3{
+	font-family: Courier New;
+	margin-top: 8%;
+	font-size: 45px;
+	color: #fff0fd;
+	text-align: center;
+	-webkit-text-stroke: 2px black;
+}
+div{
+	text-align: center;
+}
+.disc{
+	width: 70%;
+	border: 0px solid black;
+	border-collapse: collapse;
+	margin-top: 1%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.disc1{
+	text-align: left;
+	font-family: Courier New;
+	color: #fff0fd;
+	font-size: 21px;
+	-webkit-text-stroke: 0.7px black;
+}
+.cover{
+	margin-left: -10px;
+	width: 90%;
+	margin-top: 5px;
+	margin-left: 2%;
+}
+footer{
+   background-color: #1d1b33;
+   margin-left: -8px;
+   height:150px;
+   width:100.85%;
+ 	margin-bottom: -1%;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: white;
+	text-decoration: none;	
+}
+.footer{
+	margin-left: 14%;
+	font-family: Courier New;
+	font-size: 25px;
+	height: 150px;
+	width: 40%;
+	opacity: 40%;
+}
